@@ -1,5 +1,5 @@
 import streamlit as st
-import clips
+import clipspy
 import logging
 
 # Setup working environment
